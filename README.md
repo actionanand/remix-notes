@@ -8,12 +8,6 @@
 npx create-remix@latest remix_app_name
 ```
 
-## How to create new project
-
-```bash
-npx create-remix@latest
-```
-
 ## Development
 
 From your terminal:
