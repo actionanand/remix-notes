@@ -2,6 +2,12 @@
 
 - [Remix Docs](https://remix.run/docs)
 
+## How to create new Remix app
+
+```bash
+npx create-remix@latest remix_app_name
+```
+
 ## How to create new project
 
 ```bash
